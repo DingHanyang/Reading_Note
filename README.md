@@ -5,6 +5,7 @@
 ## 在读：
 
 - [一本书读懂财报(全新修订版)](https://book.douban.com/subject/34810876/)
+- [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
 
 ## 未读：
 
@@ -86,7 +87,6 @@
 - [素数之恋 : 黎曼和数学中最大的未解之谜](https://book.douban.com/subject/30373957/)
 - [函数式编程思维](https://book.douban.com/subject/26587213/)
 - [Python高级编程（第二版）](https://book.douban.com/subject/27133480/)
-- [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
 - [挑战程序设计竞赛2 算法和数据结构](https://book.douban.com/subject/26886659/)
 
 ## 已读：
