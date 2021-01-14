@@ -6,6 +6,7 @@
 
 - [一本书读懂财报(全新修订版)](https://book.douban.com/subject/34810876/)
 - [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
+- [一往无前 : 雷军亲述小米热血10年](https://book.douban.com/subject/35174681/)
 
 ## 未读：
 
@@ -40,7 +41,6 @@
 - [Python高手之路 第3版](https://book.douban.com/subject/26932642/)
 - [Python面向对象编程指南 : Mastering Object-oriented Python](https://book.douban.com/subject/26759971/)
 - [Python 3 面向对象编程（第2版）](https://book.douban.com/subject/30269353/)
-- [一往无前 : 雷军亲述小米热血10年](https://book.douban.com/subject/35174681/)
 - [统计学习方法](https://book.douban.com/subject/10590856/)
 - [图解HTTP](https://book.douban.com/subject/25863515/)
 - [自然语言处理与深度学习 : 通过C语言模拟](https://book.douban.com/subject/30314849/)
