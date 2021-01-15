@@ -5,8 +5,11 @@
 ## 在读：
 
 - [一本书读懂财报(全新修订版)](https://book.douban.com/subject/34810876/)
+  阅读进度：15%
 - [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
+  阅读进度：5%
 - [一往无前 : 雷军亲述小米热血10年](https://book.douban.com/subject/35174681/)
+  阅读进度：35%
 
 ## 未读：
 
