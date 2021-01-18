@@ -9,7 +9,7 @@
 - [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
   阅读进度：5%
 - [一往无前 : 雷军亲述小米热血10年](https://book.douban.com/subject/35174681/)
-  阅读进度：35%
+  阅读进度：50%
 
 ## 未读：
 
