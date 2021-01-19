@@ -8,12 +8,18 @@
   阅读进度：15%
 - [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
   阅读进度：5%
+- [黑天鹅 : 如何应对不可预知的未来](https://book.douban.com/subject/6854525/)
+  阅读进度：1%
+
+## 已读：
+
 - [一往无前 : 雷军亲述小米热血10年](https://book.douban.com/subject/35174681/)
-  阅读进度：50%
+  阅读进度：100%（2021-01-19）
+- [情感分析：挖掘观点、情感和情绪 : 挖掘观点、情感和情绪](https://book.douban.com/subject/27591877/)
+- [面向机器学习的自然语言标注](https://book.douban.com/subject/27034298/)
 
 ## 未读：
 
-- [黑天鹅 : 如何应对不可预知的未来](https://book.douban.com/subject/6854525/)
 - [股市长线法宝](https://book.douban.com/subject/30341105/)
 - [漫步华尔街](https://book.douban.com/subject/27596775/)
 - [经济学原理(第7版) : 微观经济学分册](https://book.douban.com/subject/26388289/)
@@ -91,9 +97,4 @@
 - [函数式编程思维](https://book.douban.com/subject/26587213/)
 - [Python高级编程（第二版）](https://book.douban.com/subject/27133480/)
 - [挑战程序设计竞赛2 算法和数据结构](https://book.douban.com/subject/26886659/)
-
-## 已读：
-
-- [情感分析：挖掘观点、情感和情绪 : 挖掘观点、情感和情绪](https://book.douban.com/subject/27591877/)
-- [面向机器学习的自然语言标注](https://book.douban.com/subject/27034298/)
 
