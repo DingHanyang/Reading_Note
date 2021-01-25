@@ -13,7 +13,7 @@
 
 ## 已读：
 
-- [张坤投资思想文集]()
+- [张坤投资思想文集](https://github.com/DingHanyang/Reading_Note/blob/main/e-book/%E5%BC%A0%E5%9D%A4%E6%8A%95%E8%B5%84%E6%80%9D%E6%83%B3%E6%96%87%E9%9B%86.pdf)
   阅读进度：100%（2021-01-25，e-book）
 - [一往无前 : 雷军亲述小米热血10年](https://book.douban.com/subject/35174681/)
   阅读进度：100%（2021-01-19）
