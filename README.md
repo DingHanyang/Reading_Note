@@ -9,7 +9,7 @@
 - [挑战程序设计竞赛](https://book.douban.com/subject/24749842/)
   阅读进度：5%
 - [黑天鹅 : 如何应对不可预知的未来](https://book.douban.com/subject/6854525/)
-  阅读进度：10%
+  阅读进度：20%
 
 ## 已读：
 
